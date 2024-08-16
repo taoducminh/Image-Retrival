@@ -42,7 +42,7 @@ The project includes a web crawler that collects images from Flickr based on var
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/image-retrieval-project.git
+   git clone https://github.com/taoducminh/image-retrieval-project.git
    ```
 2. Navigate to the project directory:
    ```bash
@@ -71,5 +71,3 @@ The project includes a web crawler that collects images from Flickr based on var
 ## Contributing
 Contributions are welcome! Please submit a pull request or open an issue to discuss any changes.
 
-## License
-This project is licensed under the MIT License.
